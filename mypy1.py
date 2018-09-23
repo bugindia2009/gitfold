@@ -10,3 +10,5 @@ def test1():
 
 test1()
 
+print("end of program")
+
